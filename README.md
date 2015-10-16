@@ -1,2 +1,2 @@
 # RPN
-read the java file for info
+calculate math expression using RPN notation
